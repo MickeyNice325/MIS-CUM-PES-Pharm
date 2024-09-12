@@ -1,0 +1,32 @@
+Array
+(
+    [selectedStaff] => Array
+        (
+            [0] => Array
+                (
+                    [staffCode] => S4160008-1
+                    [staffName] => ธีรนันทน์ จันทร์เที่ยง
+                    [department] => สํานักงานคณะ
+                    [unit] => หน่วยอาคารสถานที่และยานพาหนะ
+                )
+
+            [1] => Array
+                (
+                    [staffCode] => S4160009-1
+                    [staffName] => วิภพ สิทธิเจริญ
+                    [department] => สํานักงานคณะ
+                    [unit] => หน่วยอาคารสถานที่และยานพาหนะ
+                )
+
+            [2] => Array
+                (
+                    [staffCode] => S4160035
+                    [staffName] => สริยา กำลูนเวสารัช
+                    [department] => สํานักงานคณะ
+                    [unit] => หน่วยบริหารงานบุคคล
+                )
+
+        )
+
+    [com_code] => E160020
+)

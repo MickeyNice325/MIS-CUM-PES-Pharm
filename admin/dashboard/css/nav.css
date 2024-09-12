@@ -1,0 +1,30 @@
+.navimge {
+    background-color: #a8c43c;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+.navbar .container-fluid {
+    display: flex;
+    align-items: center;
+}
+
+.navbar .container-fluid .navbar-toggler {
+    margin-right: auto;
+}
+
+.navbar .container-fluid h4 {
+    margin: 0;
+}
+
+.navbar .container-fluid a {
+    margin-left: auto;
+}
+
